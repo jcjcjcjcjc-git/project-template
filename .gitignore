@@ -52,3 +52,4 @@ rsconnect/
 # Raw patient_data file
 data/raw/patient_data.csv
 *.csv
+!data/raw/lookup_table.csv
